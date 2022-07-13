@@ -1,0 +1,2 @@
+#!/bin/zsh
+/Applications/dogecoin/xmrig --user=DOGE:address.mac --url=rx.unmineable.com:3333 --algo=rx/0 --log-file=/Applications/dogecoin/logfile.log
