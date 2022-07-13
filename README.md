@@ -1,6 +1,6 @@
 ### Project Structure
 
-'''
+```
 |-- LaunchDaemons
 |   |-- local.mac.dogecoin.start.plist
 |   |-- local.mac.dogecoin.stop.plist
@@ -14,4 +14,4 @@
     |-- start
     |-- stop
     `-- ethminer-m1
-'''
+```
