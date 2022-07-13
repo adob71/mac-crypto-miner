@@ -1,0 +1,2 @@
+#!/bin/zsh
+/Applications/ethereum/ethminer-m1 -P stratum://ETH:address.mac@ethash.unmineable.com:3333

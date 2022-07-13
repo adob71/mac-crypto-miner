@@ -1,0 +1,2 @@
+#!/bin/zsh
+pkill -SIGINT ethminer-m1
