@@ -1,5 +1,3 @@
-### mac-crypto-miner
-
 ### Project Structure
 
 |-- LaunchDaemons
@@ -7,7 +5,6 @@
 |   |-- local.mac.dogecoin.stop.plist
 |   |-- local.mac.ethereum.start.plist
 |   `-- local.mac.ethereum.stop.plist
-|-- README.md
 |-- dogecoin
 |   |-- start
 |   |-- stop
