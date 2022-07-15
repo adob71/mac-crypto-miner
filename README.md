@@ -1,5 +1,15 @@
-### Project Structure
+### Deployment
+```
+$ launchctl load /Library/LaunchDaemons/local.mac.*
+```
 
+#Decomissioning
+```
+$ launchctl unload /Library/LaunchDaemons/local.mac.*
+
+```
+
+### Project Structure
 ```
 .
 |-- LaunchDaemons
