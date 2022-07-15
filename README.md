@@ -3,7 +3,7 @@
 $ launchctl load /Library/LaunchDaemons/local.mac.*
 ```
 
-#Decomissioning
+### Decomissioning
 ```
 $ launchctl unload /Library/LaunchDaemons/local.mac.*
 
